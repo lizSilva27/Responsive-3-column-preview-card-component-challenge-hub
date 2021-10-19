@@ -1,0 +1,69 @@
+body{
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%)
+}
+
+.minh-100 {
+    height: 100vh;
+}
+
+#cuadro1{
+    background-color: hsl(31, 77%, 52%);
+}
+
+#cuadro2{
+    background-color: hsl(184, 100%, 22%);
+}
+
+#cuadro3{
+    background-color: hsl(179, 100%, 13%);
+}
+
+.h2{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    background-color: white;
+    padding: 12px 35px;
+    border-radius: 3rem;
+    display: inline-flex;
+}
+
+#btn-orange{
+    color: hsl(31, 77%, 52%);
+    border: White 2px solid;
+}
+
+#btn-orange:hover{
+    background-color: hsl(31, 77%, 52%);
+    color: white;
+}
+
+#btn-dark-cyan{
+    color: hsl(184, 100%, 22%);    
+    border: White 2px solid;
+}
+
+#btn-dark-cyan:hover{
+    background-color: hsl(184, 100%, 22%);
+    color: white;
+}
+
+#btn-cyan{
+    color: hsl(179, 100%, 13%);
+    border: white 2px solid;
+}
+
+#btn-cyan:hover{
+    background-color: hsl(179, 100%, 13%);
+    color: white;
+}
